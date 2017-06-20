@@ -1,2 +1,2 @@
 # HelloWorld
-Test repository for refamiliarising myself with GitHub
+Test repository for re-familiarising myself with GitHub
